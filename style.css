@@ -1,0 +1,16 @@
+body{
+    background-color:rgb(31, 36, 97);
+}
+
+#search-button-color{
+    background-color:rgb(31, 36, 97);
+}
+
+.heading-text{
+    color:rgb(31, 36, 97);
+}
+
+.border-darkblue{
+    border: 4px solid;
+    border-color: rgb(31, 36, 97);
+}
